@@ -1,0 +1,83 @@
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: none;
+  border-top: dotted 10px;
+  border-width: 10px;
+}
+.qq {
+  border-style: double;
+}
+h2 {
+  color: darkmagenta;
+}
+.tt {
+  border-top: dotted;
+  width: 100px;
+  border-width: 10px;
+  border-color: firebrick;
+}
+.yy {
+border-top: solid 10px green;
+border-left:solid 10px red;
+border-right: solid 10px yellow;
+border-bottom:solid 10px cornflowerblue  ;
+}
+.ss{
+   width: 300px;
+   height: 320px;
+   margin-top: 100px;
+   margin-bottom: 50px;
+   margin-left: 10px;
+   margin-right: 70px;
+}
+.xx{
+  width:380 ;
+  height: 350;
+  margin-left: 110px;
+}
+.MM{
+width:380px ;
+height:350px ; 
+margin-left:400px;  
+}
+.vv{
+width: 380px;
+height: 350px; 
+margin-left:500px ;
+}
+.ll{
+margin-left: 115px;
+width:380px ;
+height:350px ;  
+}
+.ff{
+ margin-left:380px ; 
+  width:380px ;
+  height:350px;   
+}
+.rr{
+  margin-left:500px ;
+  width:380px ;
+  height:350px ;   
+}
+.pp{
+  margin-left: 115px;
+  width:380px ;
+  height:350px ;   
+}
+.oo{
+  width:380px ;
+  height:350px ;
+  margin-left:380px;   
+}
+.p{
+ border-style: dotted;
+ width: 600px; 
+ border-width: 5px;
+ border-color:crimson ;
+
+}
